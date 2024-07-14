@@ -9,5 +9,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosiqueiramorais&hide_progress=true)
 
 ## Tecnologias que eu utilizo
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
+<div style= "display: inline_block"><br/>
+    <img align= "center" alt= "c" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+     <img align= "center" alt= "java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+     <img align= "center" alt= "java" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+     
+</div>
