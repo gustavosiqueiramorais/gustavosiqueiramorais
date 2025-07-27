@@ -7,10 +7,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosiqueiramorais&hide_progress=true)
 
-## Tecnologias que eu utilizo
-<div style= "display: inline_block"><br/>
-    <img align= "center" alt= "c" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-     <img align= "center" alt= "python" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-     <img allign = "center" alt = "JavaScript" src =" https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
-     
-</div>
